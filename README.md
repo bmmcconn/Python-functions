@@ -1,2 +1,2 @@
 # python-functions
-Python functions.
+Python functions for various uses. 
